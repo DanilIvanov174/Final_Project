@@ -1,0 +1,15 @@
+D:\GB\DZ\Final_Project\bin\Debug\net6.0\Final_Project.exe
+D:\GB\DZ\Final_Project\bin\Debug\net6.0\Final_Project.deps.json
+D:\GB\DZ\Final_Project\bin\Debug\net6.0\Final_Project.runtimeconfig.json
+D:\GB\DZ\Final_Project\bin\Debug\net6.0\Final_Project.dll
+D:\GB\DZ\Final_Project\bin\Debug\net6.0\Final_Project.pdb
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.csproj.AssemblyReference.cache
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.AssemblyInfoInputs.cache
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.AssemblyInfo.cs
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.csproj.CoreCompileInputs.cache
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.dll
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\refint\Final_Project.dll
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.pdb
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\Final_Project.genruntimeconfig.cache
+D:\GB\DZ\Final_Project\obj\Debug\net6.0\ref\Final_Project.dll
